@@ -1,0 +1,84 @@
+    .topnav {
+        overflow: hidden;
+        background-color: #333;
+    }
+    
+    .topnav a {
+        float: right;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 25px;
+        nav-down: auto;
+        margin-top: 55px;
+    }
+    
+    #hiza {
+        margin-right: 227px;
+    }
+    
+    .topnav a:hover {
+        background-color: #ddd;
+        color: black;
+    }
+    
+    .topnav img {
+        float: left;
+        nav-left: auto;
+    }
+    
+    #logo {
+        float: left;
+        margin-bottom: 50px;
+    }
+    
+    table {
+        width: 100%;
+    }
+    
+    th,
+    td {
+        text-align: left;
+        padding: 8px;
+    }
+    
+    tr:nth-child(even) {
+        background-color: #f2f2f2
+    }
+    
+    th {
+        background-color: #333;
+        color: white;
+    }
+    
+    .column {
+        float: left;
+        margin-top: 1px;
+    }
+    
+    .round {
+        float: left;
+        width: 17%;
+        border: 2px solid black;
+        border-radius: 5px;
+        margin-top: 2%;
+        margin: 5%;
+        margin-bottom: 35px;
+        /* margin-top: 80px;
+    margin-left: 100px; */
+    }
+    
+    .product {
+        text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+    
+    .kaufen {
+        background-color: #333;
+        color: #f2f2f2;
+        font-weight: bolder;
+    }
